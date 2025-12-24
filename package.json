@@ -1,0 +1,21 @@
+{
+    "name": "@esc/oauth-client",
+    "version": "1.0.0",
+    "description": "Official OAuth 2.0 client for integration with ESC ID.",
+    "main": "src/index.js",
+    "scripts": {},
+    "type": "commonjs",
+    "files": [
+        "src"
+    ],
+    "license": "Apache-2.0",
+    "keywords": [
+        "oauth2",
+        "esc",
+        "authentication",
+        "sdk"
+    ],
+    "dependencies": {
+        "axios": "^1.6.0"
+    }
+}
